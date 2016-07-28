@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BLESample</string>
+    <string name="unknown_service">未知服务</string>
+    <string name="unknown_characteristic">未知特征</string>
+</resources>
